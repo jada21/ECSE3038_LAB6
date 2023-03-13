@@ -1,1 +1,1 @@
-this lab was really awful. and I didn't get it all into one repo, sorry for the bout dat :/ this is the api part
+this lab was really awful. and I didn't get it all into one repo, sorry bout dat :/ this is the api part
