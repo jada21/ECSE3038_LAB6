@@ -36,7 +36,7 @@ sunset_time = datetime.strptime(sunset_json["sunset"], "%Y-%m-%dT%H:%M:%S.%f")
 
 @app.get("/")
 async def jadaissocool():
-    return {"hellooo this is jada's lab 6, go to /api/jada route to see more \u2764\uFE0F"}
+    return {"hellooo this is jada's lab 6, go to /api/put or /api/state route to see more \u2764\uFE0F"}
 
 #get handler
 @app.get("/api/state")
